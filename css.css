@@ -1,0 +1,9 @@
+body{
+  margin: 0% 15%;
+  width: 75%;
+  border: 2px solid blue;
+  text-align: center;
+}
+#header {
+  background-color: lightgray;
+}
